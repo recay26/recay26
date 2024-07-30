@@ -12,8 +12,8 @@
 
 <h3 align="left">Working on right now :</h3>
 <ul class="cute-list">
-  <li>Learning Machine learning</li>
   <li>Learning JavaScripte</li>
-  <li>Experimenting with AI models</li>
-  <li>Contributing to open-source projects</li>
+  <li>Learning Node.js</li>
+  <li>Learning Express.js</li>
+  <li>Apprentice in UI/UX design </li>
 </ul>
